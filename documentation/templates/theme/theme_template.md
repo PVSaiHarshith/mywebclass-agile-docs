@@ -1,7 +1,4 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
-
-You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
-
+"As a web developer, I want to create a basic website template that meets all legal and technical requirements and can be used as a starting point for the MyWebClass.org project so that we can save time and effort in creating a new website for each class. By designing and developing the website template, we can establish a consistent look and feel for the website and ensure that it meets all legal and technical requirements. This will enable us to easily create new websites for each class, saving time and resources. By following agile principles and best practices, we can quickly and effectively deliver a high-quality website template, setting us up for long-term success.”
 
 # List initiatives related to this theme
 1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
