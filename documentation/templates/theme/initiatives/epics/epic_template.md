@@ -99,4 +99,4 @@ Business Value: Medium
 Priority: Medium
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
