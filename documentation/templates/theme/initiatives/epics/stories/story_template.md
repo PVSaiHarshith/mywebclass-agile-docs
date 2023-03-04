@@ -71,4 +71,4 @@ The website's navigation is clear and intuitive, with easy-to-understand labels 
 - The search engine provides analytics data to help the website owners track search performance and make improvements as needed.
 
 # List Stories related to this theme
-1. [Stories](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories ](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
