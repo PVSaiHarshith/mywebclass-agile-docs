@@ -1,102 +1,20 @@
-<h2>**Epic 1:**</h2> 
+"Title of the Epic"
 
-"Legal Compliance"
+Description: [A brief description of the epic]
 
-Description: This epic aims to ensure that the website template meets all legal requirements, including GDPR and COPPA compliance.
+Goals: [List the high-level goals or objectives of the epic]
 
-Goals:
-- Ensure that the website template complies with GDPR and COPPA regulations
-- Reduce the risk of legal violations related to user data privacy
+User Stories: [List the user stories that will help achieve the goals of the epic]
 
-User Stories:
-- As a website owner, I want to ensure that the website template meets all GDPR and COPPA requirements so that I can avoid legal issues related to data privacy.
-- As a user, I want to be informed about how my personal data is being collected, processed, and used so that I can trust the website.
+Dependencies: [List any dependencies that may impact the epic]
 
-Dependencies:
-- Legal expertise to ensure that the website template complies with GDPR and COPPA regulations
+Risks: [List the potential risks and mitigation strategies]
 
-Risks:
-- Lack of understanding or expertise in GDPR and COPPA regulations may lead to non-compliance and legal issues
+Estimated Effort: [Estimate the effort required to complete the epic]
 
-Estimated Effort: Medium
+Business Value: [Specify the business value that will be delivered by the epic]
 
-Business Value: High
-
-Priority: High
-
-<h2>**Epic 2:**</h2> 
-
-"Technical Compliance"
-
-Description: This epic aims to ensure that the website template passes W3C validation and Lighthouse audits.
-
-Goals:
-- Ensure that the website template is technically compliant with industry standards
-- Improve website performance and accessibility
-
-User Stories:
-- As a website owner, I want to ensure that the website template passes W3C validation and Lighthouse audits so that I can provide a technically sound website to my users.
-- As a user, I want to be able to access and use the website easily, regardless of my device or internet connection.
-
-Dependencies:
-- Technical expertise to ensure that the website template meets technical compliance requirements
-
-Risks:
-- Technical issues or limitations may require additional time and effort to resolve
-
-Estimated Effort: High
-
-Business Value: Medium
-
-Priority: Medium
-
-<h2>**Epic 3:**</h2> "User Experience"
-
-Description: This epic aims to ensure that the website template is user-friendly and easy to navigate.
-
-Goals:
-- Improve user experience and satisfaction
-- Increase user engagement and retention
-
-User Stories:
-- As a website owner, I want to ensure that the website template is user-friendly and easy to navigate so that users can find what they need quickly and easily.
-- As a user, I want to be able to navigate the website intuitively and access the information I need easily.
-
-Dependencies:
-- User research and feedback to inform design decisions
-
-Risks:
-- Limited resources or expertise may result in suboptimal design decisions that negatively impact user experience
-
-Estimated Effort: High
-
-Business Value: High
-
-Priority: High
-
-<h2>**Epic 4:**</h2> "Search Engine Optimization"
-
-Description: This epic aims to implement on-page SEO requirements to improve the website's visibility in search engine results.
-
-Goals:
-- Improve website ranking and visibility in search engine results
-- Increase organic traffic and user engagement
-
-User Stories:
-- As a website owner, I want to implement on-page SEO requirements so that the website can rank higher in search engine results and attract more organic traffic.
-- As a user, I want to be able to find relevant and high-quality content on the website easily through search engines.
-
-Dependencies:
-- SEO expertise to ensure that the website template meets on-page SEO requirements
-
-Risks:
-- Failure to meet on-page SEO requirements may negatively impact website ranking and visibility in search engine results
-
-Estimated Effort: Medium
-
-Business Value: Medium
-
-Priority: Medium
+Priority: [Assign a priority to the epic]
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
