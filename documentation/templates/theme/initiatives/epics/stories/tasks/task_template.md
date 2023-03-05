@@ -14,6 +14,8 @@ Status: Not Started
 
 Notes: None
 
+Testing: Manual testing to ensure the website template is responsive and works well on different devices and internet connections.
+
 <br/>
 <h3>Task Title: Implement GDPR and COPPA Compliance Measures</h3>
 
@@ -30,6 +32,8 @@ Priority: High
 Status: Not Started
 
 Notes: Dependent on completion of legal review.
+
+Testing: Manual testing to ensure that user consents are obtained, privacy policies are clear and properly implemented, and user data is properly managed and protected.
 
 <br/>
 <h3>Task Title: Pass W3C Validation and Lighthouse Audits</h3>
@@ -48,6 +52,8 @@ Status: Not Started
 
 Notes: None
 
+Testing: Automated unit testing with pytest for HTML and CSS errors, and end-to-end testing with Playwright to check for accessibility and performance standards. Manual testing to check website loading times.
+
 <br/>
 <h3>Task Title: Implement On-Page SEO Requirements</h3>
 
@@ -64,6 +70,8 @@ Priority: Medium
 Status: Not Started
 
 Notes: None
+
+Testing: Manual testing to ensure that on-page SEO requirements are properly implemented and improve search engine visibility.
 
 <br/>
 <h3>Task Title: Create User-Friendly Navigation System</h3>
@@ -82,6 +90,8 @@ Status: Not Started
 
 Notes: None
 
+Testing: Manual testing by Quality Assurance Team
+
 <br/>
 <h3>Task Title: Test and Debug Website Template</h3>
 
@@ -97,4 +107,9 @@ Priority: High
 
 Status: Not Started
 
-Notes: Dependent on completion of development tasks. 
+Notes: Dependent on completion of development tasks.
+
+Testing: 
+- Unit testing by development team using pytest
+- End-to-end testing by Quality Assurance Team using Playwright
+- Manual testing by Quality Assurance Team
