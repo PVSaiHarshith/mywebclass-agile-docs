@@ -41,11 +41,12 @@ Dependencies:
 - Access to necessary resources and tools
 
 Team:
-- Project Manager
-- Web Designer
-- Web Developer
-- Content Creator
-- SEO Specialist
+- Project Manager: Oversee the project and ensure it stays on schedule and within budget.
+- Web Designer: Create the visual design of the website template.
+- Web Developer: Develop the website template using coding languages.
+- Content Creator: Produce high-quality content for the website template.
+- SEO Specialist: Optimize the website template for search engines.
+
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic](documentation/templates/theme/initiatives/epics/epic_template.md)

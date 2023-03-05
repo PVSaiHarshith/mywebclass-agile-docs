@@ -31,6 +31,7 @@ The website provides a clear and concise privacy policy that describes the types
 - The website is easy to navigate and intuitive to use, with clear and concise instructions.
 - The website includes accessible features, such as alt-text for images and keyboard navigation for users with disabilities.
 - The website includes a help or support section for users to easily find assistance if needed.
+- The website loads quickly and performs well on slow internet connections, with a maximum page load time of 5 seconds on a 3G connection.
 
 <h2>Story5:</h2>
 "As a website owner, I want to ensure that the website template is user-friendly and easy to navigate so that users can find what they need quickly and easily."
@@ -71,4 +72,5 @@ The website's navigation is clear and intuitive, with easy-to-understand labels 
 - The search engine provides analytics data to help the website owners track search performance and make improvements as needed.
 
 # List Stories related to this theme
-1. [Stories](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories ](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+

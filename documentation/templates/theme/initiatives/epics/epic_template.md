@@ -1,24 +1,31 @@
-<h2>**Epic 1:**</h2> 
+<h2>**Epic 1:**</h2>
 
 "Legal Compliance"
 
 Description: This epic aims to ensure that the website template meets all legal requirements, including GDPR and COPPA compliance.
 
 Goals:
+
 - Ensure that the website template complies with GDPR and COPPA regulations
 - Reduce the risk of legal violations related to user data privacy
 
 User Stories:
+
 - As a website owner, I want to ensure that the website template meets all GDPR and COPPA requirements so that I can avoid legal issues related to data privacy.
 - As a user, I want to be informed about how my personal data is being collected, processed, and used so that I can trust the website.
 
 Dependencies:
+
 - Legal expertise to ensure that the website template complies with GDPR and COPPA regulations
 
 Risks:
+
 - Lack of understanding or expertise in GDPR and COPPA regulations may lead to non-compliance and legal issues
 
 Estimated Effort: Medium
+
+
+The estimated effort for this epic was determined based on the complexity and extent of GDPR and COPPA regulations that need to be met. The team will need to research and understand the requirements and make sure that they are implemented correctly in the website template.
 
 Business Value: High
 
@@ -46,6 +53,8 @@ Risks:
 
 Estimated Effort: High
 
+The estimated effort for this epic was determined based on the technical expertise required to ensure that the website template passes W3C validation and Lighthouse audits. The team will need to review the code and make necessary changes to ensure that the website template meets technical compliance requirements.
+
 Business Value: Medium
 
 Priority: Medium
@@ -69,6 +78,8 @@ Risks:
 - Limited resources or expertise may result in suboptimal design decisions that negatively impact user experience
 
 Estimated Effort: High
+
+The estimated effort for this epic was determined based on the need for user research and feedback to inform design decisions that will improve user experience. The team will need to conduct research and testing to identify user needs and preferences, and iterate on the design to create a user-friendly website template.
 
 Business Value: High
 
@@ -94,9 +105,12 @@ Risks:
 
 Estimated Effort: Medium
 
+The estimated effort for this epic was determined based on the on-page SEO requirements that need to be implemented. The team will need to review the website content and make necessary changes to ensure that it meets SEO requirements, which will take time and effort.
+
 Business Value: Medium
 
 Priority: Medium
 
+
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)

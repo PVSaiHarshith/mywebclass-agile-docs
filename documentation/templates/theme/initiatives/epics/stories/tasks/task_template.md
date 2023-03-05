@@ -113,3 +113,4 @@ Testing:
 - Unit testing by development team using pytest
 - End-to-end testing by Quality Assurance Team using Playwright
 - Manual testing by Quality Assurance Team
+
