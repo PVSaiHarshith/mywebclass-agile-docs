@@ -47,5 +47,6 @@ Team:
 - Content Creator: Produce high-quality content for the website template.
 - SEO Specialist: Optimize the website template for search engines.
 
+
 # List epics related to this theme
 1. [Epic](documentation/templates/theme/initiatives/epics/epic_template.md)
