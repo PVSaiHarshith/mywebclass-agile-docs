@@ -1,24 +1,29 @@
-<h2>**Epic 1:**</h2> 
+<h2>**Epic 1:**</h2>
 
 "Legal Compliance"
 
 Description: This epic aims to ensure that the website template meets all legal requirements, including GDPR and COPPA compliance.
 
 Goals:
+
 - Ensure that the website template complies with GDPR and COPPA regulations
 - Reduce the risk of legal violations related to user data privacy
 
 User Stories:
+
 - As a website owner, I want to ensure that the website template meets all GDPR and COPPA requirements so that I can avoid legal issues related to data privacy.
 - As a user, I want to be informed about how my personal data is being collected, processed, and used so that I can trust the website.
 
 Dependencies:
+
 - Legal expertise to ensure that the website template complies with GDPR and COPPA regulations
 
 Risks:
+
 - Lack of understanding or expertise in GDPR and COPPA regulations may lead to non-compliance and legal issues
 
 Estimated Effort: Medium
+
 
 The estimated effort for this epic was determined based on the complexity and extent of GDPR and COPPA regulations that need to be met. The team will need to research and understand the requirements and make sure that they are implemented correctly in the website template.
 
@@ -105,6 +110,7 @@ The estimated effort for this epic was determined based on the on-page SEO requi
 Business Value: Medium
 
 Priority: Medium
+
 
 # List stories related to this theme
 1. [Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
