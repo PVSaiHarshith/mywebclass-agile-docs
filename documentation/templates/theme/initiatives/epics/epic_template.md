@@ -20,6 +20,8 @@ Risks:
 
 Estimated Effort: Medium
 
+The estimated effort for this epic was determined based on the complexity and extent of GDPR and COPPA regulations that need to be met. The team will need to research and understand the requirements and make sure that they are implemented correctly in the website template.
+
 Business Value: High
 
 Priority: High
@@ -46,6 +48,8 @@ Risks:
 
 Estimated Effort: High
 
+The estimated effort for this epic was determined based on the technical expertise required to ensure that the website template passes W3C validation and Lighthouse audits. The team will need to review the code and make necessary changes to ensure that the website template meets technical compliance requirements.
+
 Business Value: Medium
 
 Priority: Medium
@@ -70,6 +74,8 @@ Risks:
 
 Estimated Effort: High
 
+The estimated effort for this epic was determined based on the need for user research and feedback to inform design decisions that will improve user experience. The team will need to conduct research and testing to identify user needs and preferences, and iterate on the design to create a user-friendly website template.
+
 Business Value: High
 
 Priority: High
@@ -93,6 +99,8 @@ Risks:
 - Failure to meet on-page SEO requirements may negatively impact website ranking and visibility in search engine results
 
 Estimated Effort: Medium
+
+The estimated effort for this epic was determined based on the on-page SEO requirements that need to be implemented. The team will need to review the website content and make necessary changes to ensure that it meets SEO requirements, which will take time and effort.
 
 Business Value: Medium
 
